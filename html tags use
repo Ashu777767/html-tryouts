@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DEAR HTML</title>
+</head>
+<body>
+<h1>HELLO WORLD!</h1>
+<h2>HELLO WORLD!</h2>
+<h3>HELLO WORLD!</h3>
+<h4>HELLO WORLD!</h4>
+<h5>HELLO WORLD!</h5>
+<h6>HELLO WORLD!</h6>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quis exercitationem ducimus. Laboriosam, ullam ad temporibus quis eum itaque quod expedita dicta quibusdam libero assumenda nostrum aut, eaque laudantium ab.</p>
+<a href="https://www.youtube.com/watch?v=HcOc7P5BMi4" target ="_blank">youtube</a>
+<br>
+<hr>
+<a href="https://www.google.com/" target="_blank">google </a>
+<br>
+<a href = "/html2/hello.html" target = "_blank">hello page</a> 
+<br>
+<img src="https://i.pinimg.com/736x/38/ce/af/38ceaf392f8e58a262df4a17fef81e07.jpg" alt="this is ms dhoni image" height = "100">
+<hr>
+<br>
+<img src="/html2/image.jpg" alt="this is a local image" height = "100">
+<hr>
+<br>
+<br>
+<br>
+<p> <u>Lorem ipsum</u>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quis exercitationem ducimus. Laboriosam, ullam ad <b>Lorem ipsum</b>temporibus quis eum itaque quod expedita dicta quibusdam libero <i>assumend</i> assumenda nostrum aut, eaque laudantium ab.</p>
+<big>this is big letters tag</big>
+<hr>
+<small>this is small tag</small>
+<hr>
+<p>C<sub>2</sub>O</p>
+<hr>
+<p>4<sup>2</sup> = 16</p>
+<hr>
+<pre>Lorem ipsum,         dolor sit amet consectetur adipisicing elit. Consequatur cum provident id, explicabo sequi, dolor hic quas, totam beatae porro exercitationem numquam facilis eius in? Provident perspiciatis neque facere! Error?</pre>
+</body>
+</html>
